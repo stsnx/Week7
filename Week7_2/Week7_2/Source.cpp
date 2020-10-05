@@ -21,7 +21,7 @@ int main()
 			countBit += (text[i+j] - 48) * m;
 			m *= 2;
 		}
-		if (countBit> 0 && countBit < 256)
+		if (countBit>= 0 && countBit < 256)
 		{
 				ans.push_back(encode(countBit));
 				countBit = 0;
