@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\STSNX\source\repos\Week7_2\Week7_2\Source.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\STSNX\source\repos\Week7_2\Week7_2\Source.cpp(13,6): warning C4101: 'x': unreferenced local variable
+  Week7_2.vcxproj -> C:\Users\STSNX\source\repos\Week7_2\Debug\Week7_2.exe
